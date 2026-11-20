@@ -1,79 +1,79 @@
 [
     {
-        "id": 33,
+        "id": 1,
         "name": "iPhone Duo",
         "description": "*iOS 27.1+",
         "url": "wallpapers/apple/iPhone Duo.tendies",
         "preview": "previews/apple/images/iPhone Duo.png"
     },
     {
-        "id": 32,
+        "id": 2,
         "name": "iPhone 18 Pro",
         "description": "*iOS 27RC+",
         "url": "wallpapers/apple/iPhone 18 Pro.tendies",
         "preview": "previews/apple/images/iPhone 18 Pro.png"
     },
     {
-        "id": 31,
+        "id": 3,
         "name": "iPhone 17e",
         "description": "*iOS 26.3.1+",
         "url": "wallpapers/apple/iPhone17e.tendies",
         "preview": "previews/apple/images/iPhone17e.png"
     },
     {
-        "id": 30,
+        "id": 4,
         "name": "iPhone Air",
         "description": "*15 Pro or newer, iOS 26+",
         "url": "wallpapers/apple/iPhone Air.tendies",
         "preview": "previews/apple/images/iPhoneAir.png"
     },
     {
-        "id": 29,
+        "id": 5,
         "name": "iPhone 17 Pro",
         "description": "*iOS 26+",
         "url": "wallpapers/apple/iPhone 17 Pro.tendies",
         "preview": "previews/apple/images/iPhone17Pro.png"
     },
     {
-        "id": 27,
+        "id": 6,
         "name": "iPhone 16 Pro",
         "description": "*15 Pro or newer, iOS 18+",
         "url": "wallpapers/apple/iPhone 16 Pro.tendies",
         "preview": "previews/apple/images/iPhone16Pro.png"
     },
     {
-        "id": 26,
+        "id": 7,
         "name": "iPhone 16",
         "description": "*iOS 18+",
         "url": "wallpapers/apple/iPhone 16.tendies",
         "preview": "previews/apple/images/iPhone16.png"
     },
     {
-        "id": 22,
+        "id": 8,
         "name": "iPhone 15",
         "url": "wallpapers/apple/iPhone15.tendies",
         "preview": "previews/apple/images/iPhone15.png"
     },
     {
-        "id": 20,
+        "id": 9,
         "name": "iPhone 14",
         "url": "wallpapers/apple/iPhone14.tendies",
         "preview": "previews/apple/images/iPhone14.png"
     },
     {
-        "id": 19,
+        "id": 10,
         "name": "iPhone SE 3rd Gen",
         "url": "wallpapers/apple/iPhoneSEGen3.tendies",
         "preview": "previews/apple/images/iPhoneSEGen3.png"
     },
     {
-        "id": 18,
+        "id": 11,
         "name": "iPhone 13 Pro",
         "url": "https://atums.world/raw/iPhone13Pro.tendies",
         "preview": "previews/apple/images/iPhone13Pro.png"
     },
     {
-        "id": 16,
+        "id": 12,
         "name": "iPhone 12 Pro",
         "url": "https://atums.world/raw/iPhone12Pro.tendies",
         "preview": "previews/apple/images/iPhone12Pro.png"
@@ -85,19 +85,19 @@
         "preview": "previews/apple/images/iPhone11Pro.png"
     },
     {
-        "id": 5,
+        "id": 14,
         "name": "iOS 15",
         "url": "wallpapers/apple/iOS15.tendies",
         "preview": "previews/apple/images/iOS15.png"
     },
     {
-        "id": 3,
+        "id": 15,
         "name": "Desert",
         "url": "wallpapers/apple/Desert.tendies",
         "preview": "previews/apple/images/Desert.png"
     },
     {
-        "id": 2,
+        "id": 16,
         "name": "iOS 14",
         "url": "wallpapers/apple/iOS14.tendies",
         "preview": "previews/apple/images/iOS14.png"
